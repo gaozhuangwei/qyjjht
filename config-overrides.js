@@ -26,7 +26,7 @@ module.exports = override(
         ["@static"]: path.resolve(__dirname, "./src/static"),      
         ["@store"]: path.resolve(__dirname, "./src/store"),   
         ["@utils"]: path.resolve(__dirname, "./src/utils"),
-        ["public"]: path.resolve(__dirname, "./public"),     
+        ["@public"]: path.resolve(__dirname, "./public"),     
     })
 );
 

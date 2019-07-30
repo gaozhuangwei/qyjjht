@@ -40,7 +40,7 @@ class LayoutCom extends Component {
           {this.props.children}
         </div>
       </Content>
-      <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
+      <Footer style={{ textAlign: 'center' }}>全友家居 ©2010 Created by Ant UED</Footer>
     </Layout>
   </Layout>
         )
