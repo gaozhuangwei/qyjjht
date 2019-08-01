@@ -8,16 +8,16 @@ export default class Home extends Component {
             <div>
                 <Row>
                     <Col xs={{ span: 7, offset: 1 }} lg={{ span: 7, offset: 1 }}
-                        style={{background:"#0bb78e",height:80,fontSize:"20px",lineHeight:"80px"}}
+                        style={{background:"#0bb78e",height:80,fontSize:"18px",lineHeight:"80px"}}
                     >
                         日均PV：2328
                     </Col>
                     <Col xs={{ span: 7, offset: 1 }} lg={{ span: 7, offset: 1 }}
-                    style={{background:"#0bb78e",height:80,fontSize:"20px",lineHeight:"80px"}}>
+                    style={{background:"#0bb78e",height:80,fontSize:"18px",lineHeight:"80px"}}>
                         人均UV：5.43
                     </Col>
                     <Col xs={{ span: 7, offset: 1 }} lg={{ span: 7, offset: 1 }}
-                    style={{background:"#0bb78e",height:80,fontSize:"20px",lineHeight:"80px"}}>
+                    style={{background:"#0bb78e",height:80,fontSize:"18px",lineHeight:"80px"}}>
                         人均停留时间：4.43
                     </Col>
                 </Row>
