@@ -1,0 +1,23 @@
+body{
+  background:#06b681;
+}
+.login-form {
+    width:500px;
+    height:300px;
+    position:absolute;
+    margin:auto;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    border:1px solid #06b681;
+    background:#fff;
+    border-radius: 10px;
+    padding-top:60px;
+  }
+  #components-form-demo-normal-login .login-form-forgot {
+    float: right;
+  }
+ .login-form-button {
+    width: 260px;
+  }
